@@ -104,6 +104,6 @@ This project is licensed under the **MIT License**. Feel free to modify and dist
 
 ---
 
-**Author:** *[Your Name]*  
+**Author:** *imaurus - mau.091*  
 **Version:** 1.0
 ```
