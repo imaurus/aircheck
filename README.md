@@ -89,7 +89,7 @@ const char* timeZone = "CET-1CEST,M3.5.0/2,M10.5.0/3";
 
 See: [Time Zone Abbreviations](https://remotemonitoringsystems.ca/time-zone-abbreviations.php)
 
-## 📤 ThingSpeak Integration (Optional)
+## 📤 ThingSpeak Integration (FREE and Optional)
 
 If enabled, the following data is sent:
 
