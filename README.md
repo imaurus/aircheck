@@ -3,6 +3,8 @@
 An ESP32-based project to monitor air quality (PM1, PM2.5, PM4, PM10, CO₂, temperature, and humidity), displaying data on an e-paper screen and optionally sending it to ThingSpeak.
 It needs WiFi to work, time is obtained via internet.
 
+Please visit my MakerWorld account to get the 3D Model Case: https://makerworld.com/it/models/1487279-air-control-and-clock-for-your-room#profileId-1554052
+
 ![AirCheck Front Image](images/front.jpg)
 ![AirCheck Left Image](images/left.jpg)
 ![AirCheck Inside Image](images/inside.jpg)
