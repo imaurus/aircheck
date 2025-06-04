@@ -1,6 +1,3 @@
-# aircheck
-
-
 # 🌬️ AirCheck v1.0
 
 An ESP32-based project to monitor air quality (PM1, PM2.5, PM4, PM10, CO₂, temperature, and humidity), displaying data on an e-paper screen and optionally sending it to ThingSpeak.
