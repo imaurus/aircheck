@@ -6,6 +6,8 @@ It needs WiFi to work, time is obtained via internet.
 ![AirCheck Front Image](images/front.jpg)
 ![AirCheck Left Image](images/left.jpg)
 ![AirCheck Inside Image](images/inside.jpg)
+
+Breadboard 7x5 cm
 ![AirCheck Breadboard](images/breadboard_7x5.jpg)
 
 ## 🛠️ Main Features
@@ -20,11 +22,14 @@ It needs WiFi to work, time is obtained via internet.
 
 ## 🧰 Required Hardware
 
-- ESP32 Dev Board
-- 2.9" 3-color E-paper Display (GDEW029Z10)
-- Sensirion SPS30 (particulates)
-- Sensirion SCD30 (CO₂, temperature, humidity)
-- Breadboard 7x5 cm and Dupont jumper wires
+- ESP32 Dev Board Wroover (https://it.aliexpress.com/item/1005006202255990.html)
+- 2.9" 3-color (Black White Red) E-paper Display (GDEW029Z10) (https://it.aliexpress.com/item/1005005672061297.html)
+- Sensirion SPS30 (particulates) (https://it.aliexpress.com/item/1005007221165762.html)
+- Sensirion SCD30 (CO₂, temperature, humidity) (https://it.aliexpress.com/item/1005008501174436.html)
+- Breadboard 7x5 cm (https://it.aliexpress.com/item/1005006100148769.html)
+- Dupont jumper wires (F-F) https://it.aliexpress.com/item/1005002000655439.html)
+- Pin Headers (https://it.aliexpress.com/item/1005007067304088.html)
+- Screws: 3mm diameter
 - USB Power Supply
 
 ## 📦 Required Libraries
