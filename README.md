@@ -23,7 +23,7 @@ An ESP32-based project to monitor air quality (PM1, PM2.5, PM4, PM10, CO₂, tem
 - 2.9" 3-color E-paper Display (GDEW029Z10)
 - Sensirion SPS30 (particulates)
 - Sensirion SCD30 (CO₂, temperature, humidity)
-- Breadboard and jumper wires
+- Breadboard 7x5 cm and Dupont jumper wires
 - USB Power Supply
 
 ## 📦 Required Libraries
