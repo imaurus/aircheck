@@ -99,6 +99,8 @@ If enabled, the following data is sent:
 - Temperature
 - Humidity
 
+![ThingSpeak](images/ThingSpeak.jpg)
+
 ## 🧪 Project Status
 
 ✅ Fully working  
