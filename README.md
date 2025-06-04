@@ -47,12 +47,16 @@ Make sure these libraries are installed in the Arduino IDE:
 |---------------|-----------|
 | SCD30 SDA     | 27        |
 | SCD30 SCL     | 14        |
+| SCD30  +      | 3.3v      |
 | SPS30 TX      | 16        |
 | SPS30 RX      | 17        |
+| SPS30  +      | 5.0v      |
 | E-Paper CS    | 5         |
 | E-Paper DC    | 25        |
 | E-Paper RST   | 26        |
 | E-Paper BUSY  | 4         |
+| E-Paper +     | 3.3v      |
+
 
 ## 🚀 Quick Start
 
